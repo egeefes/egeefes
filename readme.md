@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on whatever I find interesting<br>🌱 I’m currently learning SvelteKit<br>⚡ I'm currently studying Computer Science @ UCD
+🔭 I’m currently working on whatever I find interesting<br>🌱 Learning SvelteKit<br>⚡ Studying Computer Science @ UCD
 
 
 ## 🌐 Socials: [egeefes.com](https://egeefes.com)
