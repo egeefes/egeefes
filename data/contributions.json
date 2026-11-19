@@ -1,31 +1,22 @@
 {
  "user": "egeefes",
-<<<<<<< HEAD
- "public_repos": 14,
-=======
  "public_repos": 4,
->>>>>>> 58641bd12c0144176ec6e59c7629e4cb0c049931
  "repos": [
   {
    "name": "WebDrop",
    "description": "Simple web page that lets people share files directly in browser.",
    "url": "https://github.com/egeefes/WebDrop",
    "stars": 0,
-<<<<<<< HEAD
-   "language": "TypeScript",
-   "language_color": "#3178c6"
+   "language": "HTML",
+   "language_color": "#e34c26"
   },
   {
    "name": "SocSync--HackUCDxStripe",
-   "description": "Description comes from GitHub on the first Action run.",
+   "description": null,
    "url": "https://github.com/egeefes/SocSync--HackUCDxStripe",
    "stars": 0,
-   "language": "TypeScript",
-   "language_color": "#3178c6"
-=======
-   "language": "HTML",
-   "language_color": "#e34c26"
->>>>>>> 58641bd12c0144176ec6e59c7629e4cb0c049931
+   "language": "JavaScript",
+   "language_color": "#f1e05a"
   }
  ],
  "days": [
@@ -1503,7 +1494,7 @@
   },
   {
    "date": "2026-11-19",
-   "count": 16
+   "count": 20
   }
  ]
 }
