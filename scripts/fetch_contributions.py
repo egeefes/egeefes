@@ -54,7 +54,7 @@ pinned = [repo(n) for n in u["pinnedItems"]["nodes"] if n]
 recent = [repo(n) for n in u["repositories"]["nodes"] if n["name"].lower() != USER.lower()]
 # Repos to show under "Now coding", in order (case doesn't matter).
 # Leave the list empty to use your pinned repos, or else your most recently pushed ones.
-FEATURED = ["WebDrop", "CampusLoop"]
+FEATURED = ["WebDrop", "SocSync--HackUCDxStripe"]
 
 if FEATURED:
     q = "query($o:String!,$n:String!){repository(owner:$o,name:$n){ %s }}" % REPO_FIELDS

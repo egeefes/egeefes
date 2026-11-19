@@ -1,5 +1,5 @@
 {
- "user": "SAMPLE",
+ "user": "egeefes",
  "public_repos": 14,
  "repos": [
   {
@@ -11,10 +11,10 @@
    "language_color": "#3178c6"
   },
   {
-   "name": "CampusLoop",
-   "description": "Discover UCD societies and events in one place, with ticket checkout.",
-   "url": "#",
-   "stars": 5,
+   "name": "SocSync--HackUCDxStripe",
+   "description": "Description comes from GitHub on the first Action run.",
+   "url": "https://github.com/egeefes/SocSync--HackUCDxStripe",
+   "stars": 0,
    "language": "TypeScript",
    "language_color": "#3178c6"
   }

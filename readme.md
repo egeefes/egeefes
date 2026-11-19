@@ -9,4 +9,4 @@
 <a href="https://github.com/egeefes?tab=repositories"><img src="./cards/lead.svg" width="32.5%" alt="Lead" /></a>
 
 <a href="https://github.com/egeefes/WebDrop"><img src="./cards/repo-1.svg" width="49.5%" alt="WebDrop" /></a>
-<a href="https://github.com/egeefes/CampusLoop"><img src="./cards/repo-2.svg" width="49.5%" alt="CampusLoop" /></a>
+<a href="https://github.com/egeefes/SocSync--HackUCDxStripe"><img src="./cards/repo-2.svg" width="49.5%" alt="CampusLoop" /></a>

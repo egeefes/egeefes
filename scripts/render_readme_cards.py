@@ -40,7 +40,7 @@ CONFIG = {
     "tiles": [
         # stat: repos | total | active_days | streak | longest_streak
         {"file": "build", "num": "01", "word": "Build", "stat": "repos",
-         "unit": "public repos", "caption": "WebDrop, CampusLoop and other things for UCD students"},
+         "unit": "public repos", "caption": "WebDrop, SocSync and other things for UCD students"},
         {"file": "learn", "num": "02", "word": "Learn", "stat": "total",
          "unit": "contributions this year", "caption": "Computer Science & Cybersecurity at University College Dublin"},
         {"file": "lead", "num": "03", "word": "Lead", "stat": "longest_streak",
